@@ -15,8 +15,9 @@
 
 2. MARCO TEORICO
 
-![](https://github.com/JosueCamp2020/TrabajoInvestigacion2/blob/main/Imagenes/Norton.jpeg)
 ![](https://github.com/JosueCamp2020/TrabajoInvestigacion2/blob/main/Imagenes/Thevenin.jpeg)
+![](https://github.com/JosueCamp2020/TrabajoInvestigacion2/blob/main/Imagenes/Norton.jpeg)
+![](https://github.com/JosueCamp2020/TrabajoInvestigacion2/blob/main/Imagenes/tranferencia%20de%20potencia.jpeg)
 
 3. DIAGRAMAS/EJERCICIOS
 
