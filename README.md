@@ -28,6 +28,8 @@
 
 6. BIBLIOGRAFIA
 
+* Floyd, T. L. ( 2007). Principios de circuitos eléctricos (Vol. Octava edición). México: Pearson Educación.
+
 7. ANEXOS
 
 LINK ARTICULO:
