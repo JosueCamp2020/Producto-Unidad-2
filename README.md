@@ -3,15 +3,15 @@
 
 1. OBJETIVOS
 
+1.1 OBJETIVOS GENERALES
+
 * Aplicar y analizar los diferentes tipos de teremas que existen para los circuitos CA en una aplicacion de circuito.
 
-1.1 OBJETIVOS GENERALES
+1.2 OBJETIVOS ESPECIFICOS
 
 * Implementar los conocimientos adquiridos sobre el Teorema de Superposición
 * Implementar el Teorema de Thévenin y de Norton para siplificar circuitos reactivos de CA para el analisis.
 * Aplicar el uso del Teorema de la Máxima Tranferencia de potencia en los circuitos CA.
-
-1.2 OBJETIVOS ESPECIFICOS
 
 2. MARCO TEORICO
 
