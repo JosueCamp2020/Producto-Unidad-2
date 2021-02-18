@@ -1,2 +1,25 @@
-# TrabajoInvestigacion2
-Teoremas de Circuitos en Análisis de CA
+# Trabajo de Investigacion 2
+# Teoremas de Circuitos en Análisis de CA
+
+1. OBJETIVOS
+
+1.1 OBJETIVOS GENERALES
+
+1.2 OBJETIVOS ESPECIFICOS
+
+2. MARCO TEORICO
+
+3. DIAGRAMAS/EJERCICIOS
+
+4. EXPLICACIÓN
+
+5. CONCLUSIONES
+
+6. BIBLIOGRAFIA
+
+7. ANEXOS
+
+LINK ARTICULO:
+LINK EJERCICIOS:
+LINK VIDEO:
+LINK APORTACIONES:
