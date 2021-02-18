@@ -15,6 +15,9 @@
 
 2. MARCO TEORICO
 
+![](https://github.com/JosueCamp2020/TrabajoInvestigacion2/blob/main/Imagenes/Norton.jpeg)
+![](https://github.com/JosueCamp2020/TrabajoInvestigacion2/blob/main/Imagenes/Thevenin.jpeg)
+
 3. DIAGRAMAS/EJERCICIOS
 
 4. EXPLICACIÓN
