@@ -1,4 +1,4 @@
-# Trabajo de Investigacion 2
+# Producto Unidad 2
 # Teoremas de Circuitos en Análisis de CA
 
 1. OBJETIVOS
