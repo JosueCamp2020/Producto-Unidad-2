@@ -36,10 +36,10 @@
 
 7. ANEXOS
 
-LINK ARTICULO:
+LINK ARTICULO:https://github.com/JosueCamp2020/Producto-Unidad-2/blob/main/Articulo/Teoremas%20de%20Circuitos%20en%20Análisis%20de%20CA.pdf
 
 LINK EJERCICIOS:
 
 LINK VIDEO:
 
-LINK APORTACIONES:
+LINK APORTACIONES:https://github.com/JosueCamp2020/Producto-Unidad-2/tree/main/Aportaciones
